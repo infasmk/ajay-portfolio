@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Portfolio",
+  "description": "A premium futuristic personal portfolio website with a modern light cinematic UI and advanced horizontal and vertical animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
